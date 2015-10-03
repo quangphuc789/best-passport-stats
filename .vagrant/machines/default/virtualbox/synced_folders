@@ -1,1 +1,1 @@
-{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/DATA/work/best-passport-stats","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/DATA/work/best-passport-stats","disabled":false}}}
+{"virtualbox":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"C:/DATA/work/best-passport-stats","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/DATA/work/best-passport-stats","disabled":false},"/django":{"guestpath":"/django","hostpath":"C:/DATA/work/best-passport-stats","disabled":false}}}
